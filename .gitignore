@@ -12,7 +12,6 @@ coverage/
 .env
 *.log
 npm-debug.log*
-package-lock.json
 yarn.lock
 *.tgz
 /.playwright
