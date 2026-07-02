@@ -1,0 +1,7 @@
+login:
+  username: standard_user
+  password: secret_sauce
+checkout:
+  firstName: YAMLUser
+  lastName: Tester
+  postalCode: 99999

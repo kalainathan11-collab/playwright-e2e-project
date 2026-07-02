@@ -1,0 +1,4 @@
+{
+  "login": { "username": "standard_user", "password": "secret_sauce" },
+  "checkout": { "firstName": "Dev", "lastName": "User", "postalCode": "11111" }
+}

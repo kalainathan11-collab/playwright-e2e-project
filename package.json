@@ -1,0 +1,16 @@
+{
+  "name": "playwright-e2e-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "report": "playwright show-report",
+    "cucumber": "cucumber-js --require ./features/step_definitions --publish-quiet"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@cucumber/cucumber": "^9.0.0",
+    "js-yaml": "^4.1.0"
+  }
+}
